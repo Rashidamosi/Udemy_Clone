@@ -1,9 +1,5 @@
+# Module 6: Udemy Clone
 
-# Netflix Homepage Clone
-
-STUTERN ASSIGNMENT: This week, you will be cloning the Netflix web landing page and would be submitting the hosted link on Wednesday.
-
-
-
+This week, you will be cloning the Udemy web landing page and would be submitting the hosted link on Monday.
 ## 🔗 Link to live page
-https://rashidamosi.github.io/Netflix_Clone/
+https://rashidamosi.github.io/Udemy_Clone/
